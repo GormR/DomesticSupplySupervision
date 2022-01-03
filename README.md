@@ -35,6 +35,7 @@ Status:
 # Additional parts
 - [water counter](https://www.aliexpress.com/item/4001114518438.html)
 - [motor valve](https://www.aliexpress.com/item/4000105518976.html)
+- [connectors Weidmueller LSF-SMT 5.08/04/180 3.5SN](https://catalog.weidmueller.com/catalog/Start.do?localeId=en&ObjectID=1826070000)
 
 # Safety Warning
 
