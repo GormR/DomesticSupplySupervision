@@ -11,12 +11,13 @@ This project has two slightly different use-cases:
 
 Status:
 - 2 old project running including full Grafana visualisation, but ESP8266 is not long-term stable
+![pic](documentation/old_ESP3266_system.jpg)
 
 # 100 x 100 mm² 
 2-layer 35µm, 1,6mm thickness, technology: 0.15mm/0.15mm/0.3mm
 (5 SMD-assembled PCBs are $23.14 plus shipment/taxes @ JLCPCB 12/2021)
 
-[Link to EasyEDA project](https://oshwlab.com/GoRoNb/watersupervisor).
+[Link to EasyEDA project](https://oshwlab.com/GoRoNb/watersupervisor)
 
 # Functions
 - counts water and energy consumption
@@ -30,6 +31,10 @@ Status:
 - Presence of people
 - CO/CxHx gases
 - AC power switches
+
+# Additional parts
+- [water counter](https://www.aliexpress.com/item/4001114518438.html)
+- [motor valve](https://www.aliexpress.com/item/4000105518976.html)
 
 # Safety Warning
 
